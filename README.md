@@ -9,7 +9,7 @@
 [![Zero Dependencies](https://img.shields.io/badge/Build-Zero_Setup_ES_Modules-6366f1?style=for-the-badge)](#quick-start)
 [![License: MIT](https://img.shields.io/badge/License-MIT-f59e0b?style=for-the-badge)](#license)
 
-[**Live Demo**](#) • [**Key Features**](#-key-features) • [**3D Topology**](#-3d-system-architecture-topology) • [**Token FinOps Math**](#-token-pricing--finops-math-engine) • [**Quick Start**](#-quick-start)
+[**Live Demo**](https://capable-cocada-064af4.netlify.app) • [**Key Features**](#-key-features) • [**3D Topology**](#-3d-system-architecture-topology) • [**Token FinOps Math**](#-token-pricing--finops-math-engine) • [**Quick Start**](#-quick-start)
 
 </div>
 
